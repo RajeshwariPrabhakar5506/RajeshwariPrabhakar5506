@@ -1,14 +1,11 @@
 # 💫 About Me:
 👋 Hi, I’m Rajeshwari P
-<h3 align="center">
+<p>
   Java | OOPs | AI & Deep Learning <br/>
   Building Intelligent Portals & Breaking DFA Logic 🚀 <br/>
   Hackathon Team Lead | Full-Stack & Automata Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ## 🌐 Socials:
