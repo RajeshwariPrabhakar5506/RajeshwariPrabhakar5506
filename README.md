@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Rajeshwari P<br>Java | OOPs | AI & Deep Learning
-Building Intelligent Portals & Breaking DFA Logic 🚀
+👋 Hi, I’m Rajeshwari P<br>Java | OOPs | AI & Deep Learning</br><br>
+Building Intelligent Portals & Breaking DFA Logic 🚀</br><br>
 Hackathon Team Lead | Full-Stack & Automata Enthusias</br>
 
 
