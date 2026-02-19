@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Rajeshwari P<br>I’m a Developer and AI Enthusiast focused on building an Intelligent and Secure Digital Future. My work sits at the intersection of Deep Learning, Full-Stack Development, and Automata Theory.<br><br>What I’m currently working on:<br><br>🤖 AI-Powered Logistics: Building systems for automated event photo distribution and smart waste management.<br><br>🛡️ Computational Logic: Implementing DFA-based validators for complex patterns like Indian vehicle number plates and secure passwords.<br><br>💻 Full-Stack Apps: Creating end-to-end web solutions using modern frameworks.
+👋 Hi, I’m Rajeshwari P<br>Java | OOPs | AI & Deep Learning
+Building Intelligent Portals & Breaking DFA Logic 🚀
+Hackathon Team Lead | Full-Stack & Automata Enthusias</br>
 
 
 ## 🌐 Socials:
